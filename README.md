@@ -1,0 +1,2 @@
+# slcraft.pl
+server
