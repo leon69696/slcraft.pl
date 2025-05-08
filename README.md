@@ -1,2 +1,2 @@
 # slcraft.pl
-server
+```server minecraft```
